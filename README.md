@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <em>CongestionView CA interactive dashboard showing spatial congestion patterns across California metropolitan regions.A) Interactive map displaying congestion clusters, (B) Cluster summary statistics widget, (C) Speed Ratio distribution histogram, (D) Congestion quartiles pie chart, (E) Time series visual</em>
+  <em>CongestionView CA interactive dashboard showing spatial congestion patterns across California metropolitan regions. (A) Interactive map displaying congestion clusters, (B) Cluster summary statistics widget, (C) Speed Ratio distribution histogram, (D) Congestion quartiles pie chart, (E) Time series visual</em>
 </p>
 
 
