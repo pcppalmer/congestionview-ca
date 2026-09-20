@@ -6,7 +6,17 @@
 
 > **Graduate Capstone Project — M.S. Spatial Data Science, Penn State University**
 
-<img width="526" height="258" alt="image" src="https://github.com/user-attachments/assets/eaef8d33-4b48-4bd7-913c-6a3e8a656804" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/eaef8d33-4b48-4bd7-913c-6a3e8a656804"
+    alt="CongestionView CA interactive traffic congestion dashboard"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <em>CongestionView CA interactive dashboard showing spatial congestion patterns across California metropolitan regions.</em>
+</p>
 
 
 ---
