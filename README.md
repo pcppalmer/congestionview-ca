@@ -9,13 +9,13 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/eaef8d33-4b48-4bd7-913c-6a3e8a656804"
-    alt="CongestionView CA interactive traffic congestion dashboard.(A) Interactive map displaying congestion clusters, (B) Cluster summary statistics widget, (C) Speed Ratio distribution histogram, (D) Congestion quartiles pie chart, (E) Time series visual"
+    alt="CongestionView CA interactive traffic congestion dashboard."
     width="900"
   />
 </p>
 
 <p align="center">
-  <em>CongestionView CA interactive dashboard showing spatial congestion patterns across California metropolitan regions.</em>
+  <em>CongestionView CA interactive dashboard showing spatial congestion patterns across California metropolitan regions.A) Interactive map displaying congestion clusters, (B) Cluster summary statistics widget, (C) Speed Ratio distribution histogram, (D) Congestion quartiles pie chart, (E) Time series visual</em>
 </p>
 
 
