@@ -1,0 +1,15 @@
+pandas
+numpy
+geopandas
+shapely
+requests
+folium
+branca
+scikit-learn
+osmnx
+matplotlib
+pytz
+libpysal
+esda
+splot
+fiona
