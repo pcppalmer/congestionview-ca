@@ -304,7 +304,7 @@ Examines the relationship between statistically significant LISA classifications
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/congestionview-ca.git
+git clone https://github.com/pcppalmer/california-traffic-spatial-ai.git
 cd congestionview-ca
 ```
 
